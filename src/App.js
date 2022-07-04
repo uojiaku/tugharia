@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import odogwu from './odogwu.svg';
 import './App.css';
 
